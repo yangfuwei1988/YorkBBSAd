@@ -66,3 +66,25 @@
 ._文本段落 {
   text-align:left;
 }
+.icon {
+}
+.droplist {
+  color:#000000;
+  text-align:left;
+}
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.line {
+}
+.placeholder {
+}
+.shape {
+}
+.radio_button {
+  text-align:left;
+}
+.checkbox {
+  text-align:left;
+}
